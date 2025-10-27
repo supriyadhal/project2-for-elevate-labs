@@ -31,5 +31,5 @@ Component	Description
 🗄️ MongoDB	Stores previous resumes for reuse
 ![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(5).png?raw=true)
 ![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(6).png?raw=true)
-![image]()
+![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(7).png?raw=true)
 !image]()
