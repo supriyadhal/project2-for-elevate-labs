@@ -29,3 +29,4 @@ Component	Description
 🪄 PDF Export	Converts final preview to printable PDF
 🖥️ Live Preview	Instantly updates user-entered data
 🗄️ MongoDB	Stores previous resumes for reuse
+![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(5).png?raw=true)
