@@ -32,4 +32,4 @@ Component	Description
 ![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(5).png?raw=true)
 ![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(6).png?raw=true)
 ![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(7).png?raw=true)
-!image]()
+![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(8).png?raw=true)
