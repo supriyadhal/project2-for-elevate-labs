@@ -1,16 +1,31 @@
-# React + Vite
+🧠 Project Title:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Smart Resume Builder with AI Suggestions
 
-Currently, two official plugins are available:
+🎯 Objective:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Build an interactive resume generator that:
 
-## React Compiler
+Lets users input and edit resume data dynamically.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Suggests AI-based improvements using the OpenAI API (free tier).
 
-## Expanding the ESLint configuration
+Exports the final resume as a PDF.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Supports live preview and print styling.
+
+🧰 Tech Stack:
+Layer	Tools
+Frontend	React.js + Tailwind CSS
+Backend	Node.js + Express.js
+Database	MongoDB (for storing resumes)
+AI	OpenAI API (GPT-3.5 / free tier)
+Others	React-to-Print / html2pdf for PDF export
+
+✅ Final Deliverables
+Component	Description
+🧾 Resume Builder	Form-based input for user data
+💡 AI Suggestions	Improves sections like summary & skills
+🪄 PDF Export	Converts final preview to printable PDF
+🖥️ Live Preview	Instantly updates user-entered data
+🗄️ MongoDB	Stores previous resumes for reuse
