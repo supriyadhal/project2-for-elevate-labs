@@ -30,3 +30,6 @@ Component	Description
 🖥️ Live Preview	Instantly updates user-entered data
 🗄️ MongoDB	Stores previous resumes for reuse
 ![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(5).png?raw=true)
+![image](https://github.com/supriyadhal/project2-for-elevate-labs/blob/main/Screenshot%20(6).png?raw=true)
+![image]()
+!image]()
