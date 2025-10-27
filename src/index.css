@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media print {
+  body { background: white; }
+  #resume-preview, #resume-preview * { visibility: visible; }
+  body * { visibility: hidden; }
+  #resume-preview { position: absolute; left: 0; top: 0; width: 100%; }
+}
